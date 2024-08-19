@@ -7,6 +7,8 @@ I won't include certain things that I don't think some people should have
 
 Feel free to make a pull request
 
+This was inspired by jbro
+
 # Apk Demcompiling
 
 [ApkToolGUI](https://github.com/AndnixSH/APKToolGUI): For Decompiling Apks, this is by far the best one to use
@@ -32,3 +34,7 @@ Feel free to make a pull request
 [Dnspy](https://github.com/dnSpy/dnSpy): A program for editing mono assemblies on the rare chance a game is mono
 
 [DnspyEx](https://github.com/dnSpyEx/dnSpy): The Continuation of Dnspy
+
+[Il2cppParser](https://github.com/tacesrever/Il2CppParser): libil2cpp runtime symbol parser for ida
+
+[Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy): Very useful IL2CPP Disassembler
