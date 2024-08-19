@@ -9,11 +9,11 @@ Feel free to make a pull request
 
 # Apk Demcompiling
 
-[ApkToolGUI](https://github.com/AndnixSH/APKToolGUI)
+[ApkToolGUI](https://github.com/AndnixSH/APKToolGUI): For Decompiling Apks, this is by far the best one to use
 
-[ApkTool](https://github.com/iBotPeaches/Apktool)
+[ApkTool](https://github.com/iBotPeaches/Apktool): For Decompiling Apks if you want to use the console version or if you want to add it to an application
 
-[ApkEasyTool](https://xdaforums.com/t/closed-discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/)
+[ApkEasyTool](https://xdaforums.com/t/closed-discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/): For Decompiling Apks, though I would not recommend it 
 
 # Tools
 
