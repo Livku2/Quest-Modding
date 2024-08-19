@@ -5,7 +5,7 @@ Everything you need for quest mods
 #Apk Demcompiling
 
 [ApkToolGUI](https://github.com/AndnixSH/APKToolGUI)
-[ApkTool]([https://github.com/AndnixSH/APKToolGUI](https://github.com/iBotPeaches/Apktool))
+[ApkTool](https://github.com/iBotPeaches/Apktool)
 [ApkEasyTool](https://xdaforums.com/t/closed-discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/)
 
 #Tools
