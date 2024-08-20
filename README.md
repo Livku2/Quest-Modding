@@ -38,3 +38,9 @@ This was inspired by jbro
 [Il2cppParser](https://github.com/tacesrever/Il2CppParser): libil2cpp runtime symbol parser for ida
 
 [Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy): Very useful IL2CPP Disassembler
+
+# Mods
+
+[Oculus-Quit-Offset-Debugger](https://github.com/Livku2/Oculus-Quit-Offset-Debugger): A mod for debugging the quit offsets
+
+[Oculus-Runtime-Offset-Dumper](https://github.com/Livku2/Oculus-Runtime-Offset-Dumper): A mod for dumping offsets a runtime encase the metadata is encrypted
