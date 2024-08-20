@@ -1,5 +1,5 @@
 # Quest-Modding-Utils
-Everything you need for quest mods
+Everything you need to make quest mods
 
 I'm gonna keep updating this
 
