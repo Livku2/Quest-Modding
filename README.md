@@ -29,6 +29,10 @@ This was inspired by jbro
 
 [Scotland2](https://github.com/sc2ad/Scotland2): A mod loader for questpatcher
 
+[Cordl](https://github.com/QuestPackageManager/cordl): A tool for generating header files for quest patcher
+
+[Brocolib](https://github.com/Fernthedev/brocolib): A library used by cordl to parse metadata files, you will need to manually fork and edit this for different metadata versions
+
 [Il2cppDumper](https://github.com/Perfare/Il2CppDumper): An app used to dump the offsets of an il2cpp game
 
 [Dnspy](https://github.com/dnSpy/dnSpy): A program for editing mono assemblies on the rare chance a game is mono
