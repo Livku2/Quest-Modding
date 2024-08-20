@@ -9,7 +9,7 @@ Feel free to make a pull request
 
 This was inspired by jbro
 
-# Apk Demcompiling
+# Apk Decompiling
 
 [ApkToolGUI](https://github.com/AndnixSH/APKToolGUI): For Decompiling Apks, this is by far the best one to use
 
