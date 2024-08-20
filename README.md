@@ -39,8 +39,16 @@ This was inspired by jbro
 
 [Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy): Very useful IL2CPP Disassembler
 
+[UABE]([https://github.com/nesrak1/UABEA](https://github.com/SeriousCache/UABE)): A tool for extracting asset bundles
+
+[UABEA](https://github.com/nesrak1/UABEA): An improved version of Unity Asset Bundle Extractor running on the Avalonia framework
+
+[ADB](https://developer.android.com/tools/adb): A tool for sending commands to your oculus
+
+[Quest Native Mod Loader](https://github.com/Livku2/Quest-Native-Mod-Loader): A tool for loading native mods into your quest, unreleased
+
 # Mods
 
 [Oculus-Quit-Offset-Debugger](https://github.com/Livku2/Oculus-Quit-Offset-Debugger): A mod for debugging the quit offsets
 
-[Oculus-Runtime-Offset-Dumper](https://github.com/Livku2/Oculus-Runtime-Offset-Dumper): A mod for dumping offsets a runtime encase the metadata is encrypted
+[Oculus-Runtime-Offset-Dumper](https://github.com/Livku2/Oculus-Runtime-Offset-Dumper): A mod for dumping offsets a runtime encase the metadata is encrypted, not released yet
