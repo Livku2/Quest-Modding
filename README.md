@@ -43,7 +43,7 @@ This was inspired by jbro
 
 [Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy): Very useful IL2CPP Disassembler
 
-[UABE]([https://github.com/nesrak1/UABEA](https://github.com/SeriousCache/UABE)): A tool for extracting asset bundles
+[UABE](https://github.com/SeriousCache/UABE): A tool for extracting asset bundles
 
 [UABEA](https://github.com/nesrak1/UABEA): An improved version of Unity Asset Bundle Extractor running on the Avalonia framework
 
